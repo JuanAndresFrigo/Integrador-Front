@@ -1,6 +1,25 @@
+/* NAVBAR */
 .logo{
     width: 100px;
 }
+/* CAROUSEL */
 .carousel-image{
     height: 400px;
+}
+/* ORADORES */
+.oradores-title{
+    text-align: center;
+    margin-top: 10px;
+}
+.oradores-title h6{
+   font-size: 12px;
+}
+.oradores-title h2{
+   font-size: 25px;
+}
+.card{
+    margin: 0 20px;
+}
+.badge{
+font-weight: 500;
 }
