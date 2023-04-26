@@ -17,9 +17,22 @@
 .oradores-title h2{
    font-size: 25px;
 }
+.card-group{
+    margin-bottom: 20px;
+}
 .card{
     margin: 0 20px;
 }
 .badge{
 font-weight: 500;
+}
+/* BEACH */
+.beach-container{
+    width: 100%;
+}
+.beach-image{
+    padding: 0;
+}
+.card-title{
+    margin-top: 20px;
 }
