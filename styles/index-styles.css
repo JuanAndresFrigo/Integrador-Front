@@ -1,38 +1,49 @@
 /* NAVBAR */
-.logo{
-    width: 100px;
+.logo {
+  width: 100px;
 }
 /* CAROUSEL */
-.carousel-image{
-    height: 400px;
+.carousel-image {
+  height: 400px;
 }
 /* ORADORES */
-.oradores-title{
-    text-align: center;
-    margin-top: 10px;
+.oradores-title {
+  text-align: center;
+  margin-top: 10px;
 }
-.oradores-title h6{
-   font-size: 12px;
+.oradores-title h6 {
+  font-size: 12px;
 }
-.oradores-title h2{
-   font-size: 25px;
+.oradores-title h2 {
+  font-size: 25px;
 }
-.card-group{
-    margin-bottom: 20px;
+.card-group {
+  margin-bottom: 20px;
 }
-.card{
-    margin: 0 20px;
+.card {
+  margin: 0 20px;
 }
-.badge{
-font-weight: 500;
+.badge {
+  font-weight: 500;
 }
 /* BEACH */
-.beach-container{
-    width: 100%;
+.beach-container {
+  width: 100%;
 }
-.beach-image{
-    padding: 0;
+.beach-image {
+  padding: 0;
 }
-.card-title{
-    margin-top: 20px;
+.card-title {
+  margin-top: 20px;
+}
+/* FORMULARIO */
+.form-container {
+  justify-content: center;
+}
+.remember{
+    font-size: 13px;
+}
+.btn-enviar{
+    background-color: #a0d145;
+    border-color: #a0d145;
 }
