@@ -4,7 +4,12 @@
 }
 /* CAROUSEL */
 .carousel-image {
-  height: 400px;
+  height: 650px;
+  filter: brightness(0.5);
+}
+.carousel-caption{
+  text-align: end;
+  margin-left: 36%;
 }
 /* ORADORES */
 .oradores-title {
@@ -16,6 +21,9 @@
 }
 .oradores-title h2 {
   font-size: 25px;
+}
+.a-link{
+  color: #000000;
 }
 .card-group {
   margin-bottom: 20px;
