@@ -1,0 +1,42 @@
+/* NAVBAR */
+.logo {
+  width: 100px;
+}
+/* TARJETAS */
+.cards-container .card {
+  border-radius: 0%;
+}
+.cards-container {
+  margin: auto;
+}
+.card-subtitle-text {
+  font-size: 17px;
+}
+.card-percent {
+  font-weight: 800;
+}
+.card-footer-text {
+  font-size: 12px;
+}
+/* FORMULARIO */
+.form-container {
+  justify-content: center;
+}
+.btn-enviar {
+  background-color: #a0d145;
+  border-color: #a0d145;
+}
+/* FOOTER */
+.footer-container {
+  color: #ffffff;
+  background: linear-gradient(90deg,
+      rgba(31, 61, 77, 1) 0%,
+      rgba(41, 90, 116, 1) 100%);
+  margin-top: 20px;
+}
+.row-content {
+  padding: 20px 0;
+}
+.footer-item {
+  color: #ffffff;
+}
